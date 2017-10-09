@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+
+    <string name="slide1_title">Morning Walkers</string>
+    <string name="slide1_Desc">Search people around you to go for walking instantly. </string>
+
+    <string name="slide2_title">Dynamic Connectivity</string>
+    <string name="slide2_Desc">We connect you to the people having same goal at anywhere and any time. </string>
+
+    <string name="slide3_title">Make Dynamic Group</string>
+    <string name="slide3_Desc">Do not wait for anyone and find dynamic group near you. </string>
+
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+</resources>
